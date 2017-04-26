@@ -7,6 +7,6 @@
 <title>Hello World From the Jenkins</title>
 </head>
 <body>
-<h3 style="color: blue"> Message from the project - new changes..... build successful ??</h3>
+<h3 style="color: blue"> Message from the project - new changes..... build successful ??  YES</h3>
 </body>
 </html>
