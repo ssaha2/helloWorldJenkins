@@ -34,4 +34,10 @@
 			<version>4.12</version>
 		</dependency>
 	</dependencies>
+	<repositories>
+      		<repository>
+         		<id>helloWorldJenkins</id>
+         		<url>http://localhost:8081/repository/Continuous_Delivery/</url>
+      </repository>
+    </repositories>
 </project>
